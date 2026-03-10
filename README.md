@@ -1,9 +1,13 @@
-### Backup of my linux config files
+# Backups of my config files
 
-Currentyl includes configuration for: 
+Currently includes configuration for:
 
-- alacritty
-- i3
-- neofetch
-- picom
-- polybar
+| Tool                                  | Date |
+| ------------------------------------- | ---- |
+| [alacritty](/alacritty/alacritty.yml) | x    |
+| [i3](/i3/config)                      | x    |
+| [neofetch](/neofetch/config.conf)     | x    |
+| [picom](/picom/picom.conf)            | x    |
+| [polybar](/polybar/config.ini)        | x    |
+| [git](/git/.gitconfig)                | x    |
+| [bashrc](/bashrc/.bashrc)             | x    |

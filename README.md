@@ -11,3 +11,5 @@ Currently includes configuration for:
 | [polybar](/polybar/config.ini)        | x    |
 | [git](/git/.gitconfig)                | x    |
 | [bashrc](/bashrc/.bashrc)             | x    |
+
+*updating via github actions is coming...*

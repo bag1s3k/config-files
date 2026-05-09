@@ -7,8 +7,7 @@
 	recurseSubmodules = on-demand
 [core]
 	preloadindex = true
-[advice]
-	addEmptyPathspec = false
+	autocrlf = true
 [url "git@github.com:bag1s3k/"]
 	insteadOf = "bg:"
 [url "git@github.com:"]

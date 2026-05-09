@@ -1,0 +1,36 @@
+.tabbrowser-tab {
+    min-width: 35px !important;
+    overflow: hidden !important;
+    transition: opacity 0.15s ease;
+}
+
+.tab-close-button {
+    display: none !important;
+}
+
+.tabbrowser-tab:hover {
+    min-width: 60px !important;
+}
+
+.tabbrowser-tab:hover .tab-close-button {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.tabbrowser-tab:has(+ .tabbrowser-tab:hover) {
+    min-width: 20px !important;
+}
+
+.tabbrowser-tab:hover + .tabbrowser-tab {
+    min-width: 20px !important;
+}
+
+#tabbrowser-tabs:has(.tabbrowser-tab:hover) .tabbrowser-tab {
+    opacity: 0.4;
+}
+
+#tabbrowser-tabs .tabbrowser-tab:hover {
+    opacity: 1 !important;
+    z-index: 10;
+}

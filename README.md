@@ -13,3 +13,6 @@ Currently includes configuration for:
 | [bashrc](/bashrc/.bashrc)             | x    |
 
 *updating via github actions is coming...*
+
+> [!INFO]
+> I'm gonna recreate this repo as a standard `dotfiles`

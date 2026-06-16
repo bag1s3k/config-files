@@ -14,5 +14,5 @@ Currently includes configuration for:
 
 *updating via github actions is coming...*
 
-> [!INFO]
+> [!NOTE]
 > I'm gonna recreate this repo as a standard `dotfiles`

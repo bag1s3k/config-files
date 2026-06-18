@@ -1,5 +1,9 @@
 # Backups of my config files
 
+> [!IMPORTANT]
+> This repo was build to store my config files before I fully move to linux \
+> My current [dotfiles](https://github.com/bag1s3k/dotfiles)
+
 Currently includes configuration for:
 
 | Tool                                  | Date |
@@ -11,8 +15,3 @@ Currently includes configuration for:
 | [polybar](/polybar/config.ini)        | x    |
 | [git](/git/.gitconfig)                | x    |
 | [bashrc](/bashrc/.bashrc)             | x    |
-
-*updating via github actions is coming...*
-
-> [!NOTE]
-> I'm gonna recreate this repo as a standard `dotfiles`
